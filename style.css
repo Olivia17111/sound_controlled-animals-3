@@ -1,0 +1,31 @@
+.header_div
+  {
+  background: #a9adad;
+  color: white; 
+  }
+  #Start_btn
+  {
+      margin-top: 20px;
+      border-radius: 35%;
+      font-size:x-large;
+      font-family: 'Merriweather', serif;
+  }
+div{
+    font-size: x-large;
+}
+body{
+    background-color: #dfe0e0;
+    font-family: 'Courgette', cursive;;
+}
+.copy_right_footer{
+    position: fixed;
+   color: #6c757d;
+   bottom: 0;
+   width: 100%;
+   font-size: 25px;
+   background-color: #f5f5f5;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
